@@ -120,4 +120,4 @@ Our FSRT implementation ist based on the PyTorch implementation of [Scene Repres
   year={2024}
 }
 ```
-# FSRT
+
